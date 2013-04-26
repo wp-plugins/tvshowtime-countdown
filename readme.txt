@@ -1,6 +1,6 @@
 === TVST Countdown ===
 Contributors: Toze
-Tags: countdown, count, counter, tv show
+Tags: countdown, count, counter, tv show, tvshowtime
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.0.0
@@ -19,6 +19,8 @@ This plugin finds automatically the air date of the next episode of the TV show 
 <h3><strong>Question & Supports</strong></h3>
 Please leave message for questions, supports or new features on next version here:<br />
 http://support.tozelabs.com
+
+This plugin is kindly (and freely) provided by TVShow Time
 
 == Installation ==
 
