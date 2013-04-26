@@ -20,7 +20,7 @@ This plugin finds automatically the air date of the next episode of the TV show 
 Please leave message for questions, supports or new features on next version here:<br />
 http://support.tozelabs.com
 
-This plugin is kindly (and freely) provided by TVShow Time
+This plugin is kindly (and freely) provided by TVShowTime
 
 == Installation ==
 
